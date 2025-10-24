@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "পাঁচ কালেমা",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/five_kalema.json"
+    },
+    {
+      "id": 2,
+      "name": "নামাজের দোয়া সমূহ",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/salat_dua.json"
+    },
+    {
+      "id": 3,
+      "name": "জানাজার নামাজের দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/janajah_dua.json"
+    },
+    {
+      "id": 4,
+      "name": "প্রতিদিনের জরুরী দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/everyday_dua.json"
+    },
+   {
+      "id": 5,
+      "name": "নামাজের পরের দোয়া ও আমল",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/after_salat_dua.json"
+    },
+  {
+      "id": 6,
+      "name": "মোনাজাতের দোয়া সমূহ",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/monajater_dua.json"
+    },
+  {
+      "id": 7,
+      "name": "রমজানের দোয়া ও আমল সমূহ",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/ramadan_dua.json"
+    },
+   {
+      "id": 8,
+      "name": "ঈদের দিনের দোয়া ও আমল সমূহ",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/eid_dua.json"
+    },
+    {
+      "id": 9,
+      "name": "জুম্মার নামাজের দোয়া ও আমল সমূহ (শুক্রবার)",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/friday_dua.json"
+    }
+
+
+
+
+  ]
+}
