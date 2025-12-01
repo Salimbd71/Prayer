@@ -20,22 +20,22 @@
       "name": "প্রতিদিনের জরুরী দোয়া",
       "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/everyday_dua.json"
     },
-   {
+    {
       "id": 5,
       "name": "নামাজের পরের দোয়া ও আমল",
       "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/after_salat_dua.json"
     },
-  {
+    {
       "id": 6,
       "name": "মোনাজাতের দোয়া সমূহ",
       "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/monajater_dua.json"
     },
-  {
+    {
       "id": 7,
       "name": "রমজানের দোয়া ও আমল সমূহ",
       "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/ramadan_dua.json"
     },
-   {
+    {
       "id": 8,
       "name": "ঈদের দিনের দোয়া ও আমল সমূহ",
       "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/eid_dua.json"
@@ -44,10 +44,79 @@
       "id": 9,
       "name": "জুম্মার নামাজের দোয়া ও আমল সমূহ (শুক্রবার)",
       "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/friday_dua.json"
+    },
+
+    /* ---------- নতুন গুরুত্বপূর্ণ ক্যাটাগরি (১০–২৩) ---------- */
+
+    {
+      "id": 10,
+      "name": "সকাল-সন্ধ্যার দোয়া (আযকার)",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/morning_evening_dua.json"
+    },
+    {
+      "id": 11,
+      "name": "ভ্রমণের দোয়া (সফর)",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/travel_dua.json"
+    },
+    {
+      "id": 12,
+      "name": "ঘুমানোর ও ঘুম থেকে উঠার দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/sleep_dua.json"
+    },
+    {
+      "id": 13,
+      "name": "রোগ-ব্যাধি ও শিফার দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/shifa_dua.json"
+    },
+    {
+      "id": 14,
+      "name": "রিজিক ও বরকতের দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/rizq_dua.json"
+    },
+    {
+      "id": 15,
+      "name": "তাওবা ও ক্ষমা প্রার্থনার দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/tawba_dua.json"
+    },
+    {
+      "id": 16,
+      "name": "কুরআনের দোয়া সমূহ (রাব্বানা)",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/rabbana_dua.json"
+    },
+    {
+      "id": 17,
+      "name": "বিপদ ও দুঃসময়ের দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/hard_time_dua.json"
+    },
+    {
+      "id": 18,
+      "name": "কবর জিয়ারতের দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/graveyard_dua.json"
+    },
+    {
+      "id": 19,
+      "name": "হজ ও ওমরাহর দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/hajj_umrah_dua.json"
+    },
+    {
+      "id": 20,
+      "name": "বিবাহ ও পরিবারিক দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/family_dua.json"
+    },
+    {
+      "id": 21,
+      "name": "গুনাহ থেকে বাঁচার দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/protection_from_sin.json"
+    },
+    {
+      "id": 22,
+      "name": "প্রাকৃতিক দুর্যোগ ও বিপদের দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/disaster_dua.json"
+    },
+    {
+      "id": 23,
+      "name": "শিশুদের ছোট ছোট দোয়া",
+      "url": "https://raw.githubusercontent.com/Salimbd71/Prayer/main/duas/kids_dua.json"
     }
-
-
-
-
   ]
 }
